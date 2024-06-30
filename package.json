@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.13.0",
+    "chart.js": "^4.4.0",
+    "ml-regression": "^5.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "simple-statistics": "^7.8.3"
+  }
+}
